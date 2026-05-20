@@ -1,6 +1,6 @@
 # Překlad Disco Elysium Switcher
 
-Mód který místo nahrazení angličtiny, jak to dělá [český překlad](https://hernipreklady.cz/seznam-prekladu/disco-elysium-the-final-cut), nahrazuje němčinu, pro lepší využívání funkce přepínání jazyka během hry.
+Mód který místo nahrazení angličtiny, jak to dělá [český překlad](https://hernipreklady.cz/seznam-prekladu/disco-elysium-the-final-cut), nahrazuje němčinu, pro lepší využívání funkce přepínání angličtiny a češtiny během hry.
 
 Ráda hraju Disco Elysium v angličtině, ale někdy jsem musela si vzít do ruky telefon a použít překladač, což bylo dost obtěžující. Pak mě napadlo, že Disco Elysium má přesně tuhle funkci, ale bohužel [český překlad](https://hernipreklady.cz/seznam-prekladu/disco-elysium-the-final-cut) nahrazuje původní angličtinu svoji češtinou. Proto vznikl tento mód, který místo angličtinu nahrazuje němčinu a ráda bych se s ním podělila s ostatními.
 
