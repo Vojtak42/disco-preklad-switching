@@ -6,7 +6,7 @@ Ráda hraju Disco Elysium - The Final Cut v angličtině, ale někdy jsem si mus
 
 ## ⚠️ Důležité
 - Funguje pouze s Windows verzí hry.
-- Testováno na Disco Elysium - The Final Cut GOG verzi a0a063aa (17th December 2025), ale mělo by to fungovat také na Steam verzi hry 17/12/25 (21044846).
+- Testováno na Disco Elysium - The Final Cut GOG verzi a0a063ab (1th January 2026), ale mělo by to fungovat také na Steam verzi hry 17/12/25 (21044846).
 - Před použitím si vždy zálohujte soubory.
 - Aby mód fungoval, nahrazuje němčinu. Proto při výběru výběru druhého (nebo prvního) jazyka je potřeba vybrat **německý jazyk**.
   - Kdyby byl zájem, nahraji i verzi, která nahrazuje jiný jazyk.
@@ -26,6 +26,9 @@ git clone https://github.com/localcatgirl-dev/disco-preklad-switching
 
 ### Instalace
 Vložte do root hry.
+
+### Doporučení
+Doporučuji neoficiální bug fix [Furious Tare](https://www.nexusmods.com/discoelysium/mods/62), který setaky instuluje do rootu hry. 
 
 ## Použité nástroje, soubory a poděkování
 - [UABEA](https://github.com/nesrak1/UABEA?spm=a2ty_o01.29997173.0.0.7f8755fbwic1EN)
