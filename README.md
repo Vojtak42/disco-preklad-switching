@@ -36,6 +36,7 @@ Vložte do root hry.
 # Zajímavost
 Víte o tom, že existuje "pokračování" Disco Elysium jako kniha jménem Sacred and Terrible Air, které se děje 20 let poté?
 - [epub verze](https://drive.google.com/file/d/1XjBapU74VKRoC9BYk1lwhG8HeveQpVvS/view)
+- [pdf verze](https://drive.google.com/file/d/10hNiOLPy_xGX5VSnNp0fTx6aU5NHPhBX/view)
 - [web verze](https://suricrasia.online/elysium/?dark)
 
 # :)
