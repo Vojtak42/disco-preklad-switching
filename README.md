@@ -1,7 +1,8 @@
 # Překlad Disco Elysium Switcher
 
-Jednoduchý mód, který využívá funkci hry přepínání mezi dvěma jazyky. Je umožňěno přepínat mezi českým překladem a originální angličtinou (nebo jakýmkoliv jiným jazykem, který Disco Elysium momentálně obsahuje, ale to už přímo si [stáhněte normální češtinu](https://hernipreklady.cz/seznam-prekladu/disco-elysium-the-final-cut)).
+Mód který místo nahrazení angličtiny, jak to dělá [český překlad](https://hernipreklady.cz/seznam-prekladu/disco-elysium-the-final-cut), nahrazuje němčinu, pro lepší využívání funkce přepínání jazyka během hry.
 
+Ráda hraju Disco Elysium v angličtině, ale někdy jsem musela si vzít do ruky telefon a použít překladač, což bylo dost obtěžující. Pak mě napadlo, že Disco Elysium má přesně tuhle funkci, ale bohužel [český překlad](https://hernipreklady.cz/seznam-prekladu/disco-elysium-the-final-cut) nahrazuje původní angličtinu svoji češtinou. Proto vznikl tento mód, který místo angličtinu nahrazuje němčinu a ráda bych se s ním podělila s ostatními.
 
 ## ⚠️ Důležité
 - Funguje pouze s Windows verzi hry.
@@ -9,7 +10,8 @@ Jednoduchý mód, který využívá funkci hry přepínání mezi dvěma jazyky.
 - Před použitím si vždy zálohujte soubory.
 - Pro fungování tento mód nahrazuje němčinu, proto při výběru durhého (nebo prvního) jazyka je potřebna vybrat **německý jazyk**.
   - Kdyby byl zájem, nahraji i verzi, která nahrazuje jiný jazyk.
-- Mód není ve finální verzi, proto uvidíte někdy německý text, ale dialogy a veškerý důležitý text je češtině.
+- Mód není ještě ve finální verzi, proto uvidíte někdy německý text, ale dialogy a veškerý důležitý text je češtině.
+- Mód obsahuje už češtinu, která čerpá z Herních Překladů, je potřeba mít Disco Elysium bez nainstalované češtiny z Herních Překladů.
 
 ## Stažení
 1. Zelené tlačítko Code
