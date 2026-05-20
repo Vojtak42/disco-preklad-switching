@@ -13,15 +13,19 @@ Ráda hraju Disco Elysium v angličtině, ale někdy jsem musela si vzít do ruk
 - Mód není ještě ve finální verzi, proto uvidíte někdy německý text, ale dialogy a veškerý důležitý text je češtině.
 - Mód obsahuje už češtinu, která čerpá z Herních Překladů, je potřeba mít Disco Elysium bez nainstalované češtiny z Herních Překladů.
 
-## Stažení
+## Stažení a Instalace
+### Stažení
 1. Zelené tlačítko Code
 2. Download ZIP
 
-nebo můžete použít:
+Nebo můžete použít:
 
 ```bash
 git clone https://github.com/localcatgirl-dev/disco-preklad-switching
 ```
+
+### Instalace
+Vložte do root hry.
 
 ## Použité nástroje, soubory a poděkování
 - [UABEA](https://github.com/nesrak1/UABEA?spm=a2ty_o01.29997173.0.0.7f8755fbwic1EN)
