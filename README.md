@@ -33,6 +33,11 @@ Vložte do root hry.
 - Děkuji týmu [Herní Překlady](https://hernipreklady.cz/) za skvělý [překlad](https://hernipreklady.cz/seznam-prekladu/disco-elysium-the-final-cut) a poskytnutí jeho [source codu](https://github.com/prekladyher/disco-preklad) :)
 - Děkuji za pomoc a podporu na discord serveru Herní Překlady
 
+# Zajímavost
+Víte o tom, že existuje "pokračování" Disco Elysium jako kniha jménem Sacred and Terrible Air, které se děje 20 let poté?
+- [epub verze](https://drive.google.com/file/d/1XjBapU74VKRoC9BYk1lwhG8HeveQpVvS/view)
+- [web verze](https://suricrasia.online/elysium/?dark)
+
 # :)
 <img width="367" height="400" alt="image" src="https://github.com/user-attachments/assets/df5ad90f-89ae-4366-be2d-7222888178a8" />
 <img width="320" height="443" alt="image" src="https://github.com/user-attachments/assets/a61b98e4-f439-4d07-8d8a-8554f4fc0fa1" />
