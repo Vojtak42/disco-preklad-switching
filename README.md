@@ -35,7 +35,7 @@ Doporučuji neoficiální bug fix [Furious Tare](https://www.nexusmods.com/disco
 - [AssetStudio](https://github.com/Perfare/AssetStudio?spm=a2ty_o01.29997173.0.0.7f8755fbwic1EN)
 - Děkuji týmu [Herní Překlady](https://hernipreklady.cz/) za skvělý [překlad](https://hernipreklady.cz/seznam-prekladu/disco-elysium-the-final-cut) a poskytnutí jeho [source codu](https://github.com/prekladyher/disco-preklad) :)
 - Děkuji za pomoc a podporu na discord serveru Herní Překlady
-- Vojtak42 za textury
+- [Vojtak42](https://github.com/Vojtak42/) - textury, skilly, achievementy
 
 # Zajímavost
 Víte o tom, že existuje "pokračování" Disco Elysium jako kniha jménem Sacred and Terrible Air, které se děje 20 let poté?
