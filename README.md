@@ -6,7 +6,7 @@ Ráda hraju Disco Elysium - The Final Cut v angličtině, ale někdy jsem si mus
 
 ## ⚠️ Důležité
 - Funguje pouze s Windows verzí hry.
-- Testováno na Disco Elysium - The Final Cut GOG verzi a0a063ab (1th January 2026), ale mělo by to fungovat také na Steam verzi hry 17/12/25 (21044846).
+- Testováno na Disco Elysium - The Final Cut GOG a0a063ab (1th January 2026) a Epic (2026-05-14) (problém akorát špatná velikost fontu v nastavení, jinak ok) verzi, ale mělo by to fungovat také na Steam verzi hry 17/12/25 (21044846). 2025-06-14
 - Před použitím si vždy zálohujte soubory.
 - Aby mód fungoval, nahrazuje němčinu. Proto při výběru výběru druhého (nebo prvního) jazyka je potřeba vybrat **německý jazyk**.
   - Kdyby byl zájem, nahraji i verzi, která nahrazuje jiný jazyk.
