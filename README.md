@@ -25,7 +25,9 @@ git clone https://github.com/localcatgirl-dev/disco-preklad-switching
 ```
 
 ### Instalace
-Vložte do root hry.
+Vložte do:
+ - Pro Steam: DiscoElysium\Disco_Data
+ - Pro Epic DiscoElysium\Disco Elysium_Data
 
 ### Doporučení
 Doporučuji neoficiální bug fix [Furious Tare](https://www.nexusmods.com/discoelysium/mods/62), který setaky instuluje do rootu hry. 
